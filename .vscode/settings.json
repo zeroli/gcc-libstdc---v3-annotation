@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "type_traits": "cpp",
+        "thread": "cpp",
+        "utility": "cpp",
+        "tuple": "cpp",
+        "atomic": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}
